@@ -1,0 +1,420 @@
+body {
+    font-size: 16px !important;
+    line-height: 1.45 !important;
+    overflow-x: hidden;
+}
+
+.navbar-inverse {
+    background-color: transparent !important;
+    border: none !important;
+    top: 40px;
+}
+
+.navbar-brand {
+    font-size: 26px !important;
+    font-weight: 700;
+}
+
+.navbar-nav a {
+    font-weight: 400;
+}
+
+.navbar-form {
+    border: none !important;
+}
+
+.a {
+    padding: 18% 13%;
+}
+
+.a1 {
+    color: black;
+    margin-bottom: 30px;
+    font-size: 94px;
+    font-weight: 400;
+}
+
+@media screen and (max-width:600px) {
+    .a1 {
+        font-size: 50px;
+    }
+}
+
+.a2 {
+    color: black;
+    font-size: 21px;
+    margin-bottom: 30px;
+}
+
+.a3 {
+    font-size: 60px;
+}
+
+.fas {
+    margin: 0 15px;
+    color: black;
+}
+
+.b {
+    padding: 7% 0%;
+}
+
+@media screen and (max-width:600px) {
+    .b0 {
+        margin-bottom: 7px;
+    }
+}
+
+.b1 {
+    background: rgb(239, 239, 239);
+    width: 75%;
+    margin-left: 12%;
+}
+
+.b3 {
+    padding: 10% 2%;
+}
+
+.b4 {
+    color: rgb(97, 94, 94);
+}
+
+.b5 {
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width:600px) {
+    .b5 {
+        font-size: 25px;
+    }
+}
+
+.C {
+    background-color: rgb(239, 239, 239);
+    margin-bottom: 7%;
+}
+
+.c1 {
+    padding: 1% 0;
+    margin-bottom: 10px;
+}
+
+.c2 {
+    margin-top: 10%;
+    margin-bottom: -10%;
+}
+
+.c3 {
+    margin: 10% 0 10% 25%;
+}
+
+.d1 {
+    background-color: rgb(248, 205, 212);
+    padding: 4% 0;
+    margin-bottom: 5px;
+}
+
+.d2 {
+    background-color: rgb(241, 224, 201);
+    padding: 4% 0;
+}
+
+.d3 {
+    margin-bottom: 20px;
+}
+
+.d4 {
+    margin-bottom: 30px;
+}
+
+.d5 {
+    background: black;
+    color: white;
+    font-size: 16px;
+}
+
+.E {
+    margin: 7% 0;
+}
+
+.e1 a {
+    color: black;
+}
+
+.e1 a p {
+    color: green;
+}
+
+.e2 a {
+    color: black;
+}
+
+.e2 a p {
+    color: green;
+}
+
+.hom {
+    margin: 0 0 15px -15%;
+}
+
+@media screen and (max-width:600px) {
+    .e1 {
+        width: 50%;
+    }
+    .e2 {
+        float: right;
+        width: 50%;
+        margin-top: -41.5%;
+    }
+}
+
+.F {
+    background-color: rgb(229, 238, 250);
+    margin: 7% 0;
+}
+
+.f {
+    padding: 5% 0;
+}
+
+.f1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.f2 {
+    margin-bottom: 30px;
+}
+
+.input-lg {
+    margin-bottom: 30px;
+}
+
+.f3 {
+    background: black;
+    color: white;
+    border-radius: 0 !important;
+    padding: 12px 40px !important;
+}
+
+.g1 a {
+    font-size: 17px;
+    color: black;
+}
+
+.fab {
+    margin: 0 20px;
+    color: black;
+    font-size: 35px;
+}
+
+.H {
+    background-color: rgb(239, 239, 239);
+    margin-top: 3%;
+}
+
+.h1 h3 {
+    color: black;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.h1 p {
+    color: black;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.h1 a {
+    color: black;
+    font-size: 15px;
+}
+
+@media screen and (max-width:600px) {
+    .h1 {
+        text-align: center;
+        margin-bottom: 30px !important;
+    }
+}
+
+.h2 {
+    margin-bottom: 20px !important;
+}
+
+.h3 {
+    background-color: black;
+    color: white !important;
+    font-size: 15px;
+    padding: 14px;
+}
+
+.i {
+    float: right;
+    margin-top: -35.5px;
+}
+
+.i1 a {
+    color: black;
+}
+
+.i1 a p {
+    color: green;
+}
+
+.i2 a {
+    color: black;
+}
+
+.i2 a p {
+    color: green;
+}
+
+@media screen and (max-width:600px) {
+    .i1 {
+        width: 50%;
+    }
+    .i2 {
+        float: right;
+        width: 50%;
+        margin-top: -39.2%;
+    }
+}
+
+.kit {
+    margin-left: 25%;
+    margin-bottom: 15px;
+}
+
+.kit1 {
+    margin: 0 0 15px 10%;
+}
+
+.kit2 {
+    margin: 0 0 15px 33%;
+}
+
+.z1,
+.z2 {
+    margin-bottom: 50px;
+}
+
+.z1 a {
+    color: black;
+}
+
+.z1 a p {
+    color: green;
+}
+
+.z2 a {
+    color: black;
+}
+
+.z2 a p {
+    color: green;
+}
+
+.home {
+    margin: 0 0 15px 23%;
+}
+
+.home1 {
+    margin: 0 0 15px 6%;
+}
+
+.home2 {
+    margin: 0 0 15px 30%;
+}
+
+.home3 {
+    margin: 0 0 15px 12%;
+}
+
+@media screen and (max-width:600px) {
+    .z1 {
+        width: 50%;
+    }
+    .z2 {
+        float: right;
+        width: 50%;
+        margin-top: -62.5%;
+    }
+}
+
+.Y {
+    margin: 3% 0;
+}
+
+.y {
+    padding: 15px 0;
+}
+
+.y1 {
+    background-color: rgb(240, 178, 240);
+    border: 1px solid white;
+    padding: 1% 0;
+    border-radius: 3px;
+}
+
+@media screen and (max-width:600px) {
+    .y1 {
+        padding-bottom: 22%;
+    }
+}
+
+.y1 a {
+    color: white;
+    font-size: 18px;
+    line-height: 1.45;
+}
+
+small {
+    font-size: 12px !important;
+}
+
+.y2 {
+    font-size: 16px !important;
+}
+
+.y3 {
+    float: right;
+    margin-top: -10%;
+}
+
+.y4 {
+    background-color: rgb(224, 196, 171);
+    border: 1px solid white;
+    padding: 1% 0;
+    border-radius: 3px;
+}
+
+@media screen and (max-width:600px) {
+    .y4 {
+        padding-bottom: 22%;
+    }
+}
+
+.y4 a {
+    color: white;
+    font-size: 18px;
+    line-height: 1.45;
+}
+
+.y5 {
+    background-color: rgb(203, 203, 223);
+    border: 1px solid white;
+    padding: 1% 0;
+    border-radius: 3px;
+}
+
+@media screen and (max-width:600px) {
+    .y5 {
+        padding-bottom: 22%;
+    }
+}
+
+.y5 a {
+    color: white;
+    font-size: 33px;
+    line-height: 1.45;
+}
